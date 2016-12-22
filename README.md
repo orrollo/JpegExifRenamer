@@ -11,3 +11,9 @@ image, and move file to such location:
 .\Year\Month\Day\HourMinuteSecond_{originalFileName.originalExtension}
 
 So, you can simple drop your jpeg files to directory, copy here binary files, and run.
+
+#Thanks
+
+Tool uses ExifLib, installed as NuGet package, thanks to Simon McKenzie.
+
+https://www.codeproject.com/Articles/36342/ExifLib-A-Fast-Exif-Data-Extractor-for-NET
